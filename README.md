@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh Johari </h1>
-<h3 align="center">A passionate Problem Solver and Web Dev Learner 🙌.</h3>
-<h4 align="center">Since Investment in Knowledge Pays the Highest Interest I Love To Keep Exploring and Learning Throughout 🎯🎯</h4>
+<h3 align="center">A passionate Problem Solver and Web Dev Learner .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavinigam25&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavinigam25" /> </p>
+
 
 
 
@@ -15,12 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vansh-johari-98220a192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavinigam25/" height="30" width="40" /></a>
-<a href="https://instagram.com/vaishnavinigam_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavinigam_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vaishnavinigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vaishnavinigam" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vaish2512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaish2512" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaishnavinigam25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnavinigam25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vaishnavinigam25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_invincible_vansh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_invincible_vansh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vansh_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaish2512" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
+<a href="https://leetcode.com/Vansh_29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vansh2039/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaishnavinigam25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
